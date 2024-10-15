@@ -43,7 +43,7 @@ La plataforma cuenta con sistemas de autenticación robustos y cifrado de datos 
 - **Tecnologías**: React, TypeScript
 
 ### Backend Microcréditos (Spring Boot)
-- **Despliegue**: [https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html](https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html)
+- **Despliegue**: [https://i003-nativo-back-production.up.railway.app/](https://i003-nativo-back-production.up.railway.app/ )
 - **Repositorio**: [https://github.com/igrowker/i003-nativo-back](https://github.com/igrowker/i003-nativo-back)
 - **Swagger:** [https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html](https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html)
 - **Tecnologías**: Java, Spring Boot, PostgreSQL, JWT, Swagger, Docker, Railway, JUnit
