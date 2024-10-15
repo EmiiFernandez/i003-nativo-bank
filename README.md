@@ -40,12 +40,13 @@ La plataforma cuenta con sistemas de autenticación robustos y cifrado de datos 
 ### Frontend
 - **Despliegue**: [https://nativo.netlify.app/](https://nativo.netlify.app/)
 - **Repositorio**: [https://github.com/igrowker/i003-nativo-front](https://github.com/igrowker/i003-nativo-front)
-- **Tecnologías**: React
+- **Tecnologías**: React, TypeScript
 
 ### Backend Microcréditos (Spring Boot)
 - **Despliegue**: [https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html](https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html)
 - **Repositorio**: [https://github.com/igrowker/i003-nativo-back](https://github.com/igrowker/i003-nativo-back)
 - **Tecnologías**: Java, Spring Boot, PostgreSQL, JWT, Swagger, Docker, Railway, JUnit
+- **Swagger:** [https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html](https://i003-nativo-back-production.up.railway.app/swagger-ui/index.html)
 
 📚 **Funcionalidades**
 
