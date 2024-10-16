@@ -72,13 +72,14 @@ La plataforma cuenta con sistemas de autenticación robustos y cifrado de datos 
 - **Fullstack**
   - Sheila Diz 
 
-- **Backend (Microcréditos)**: 
+- **Backend**: 
   - Mario Jarod Grande
   - Pamela Zampieri
   - Matías Mazzitelli
   - Ulises Gadea
   - Guillermo Diván
   - Emilia Fernández
+  - Mirco Santoni
 
 - **QA**:
   - Andrea Laurino
